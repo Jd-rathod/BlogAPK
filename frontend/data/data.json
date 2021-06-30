@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "ML in Urban Planning",
+      "body": "Nowdays, ML is impacting... ",
+      "author": "Rajat",
+      "id": 1
+    },
+    {
+      "title": "React native for ios",
+      "body": "Ios users are...",
+      "author": "Jay",
+      "id": 2
+    },
+    {
+      "title": "Working with Azure",
+      "body": "Azure is ruling the...",
+      "author": "Raj",
+      "id": 3
+    }
+  ]
+}
